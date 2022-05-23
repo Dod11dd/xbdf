@@ -7,3 +7,4 @@ too-many-arguments-threshold = 13
 # Reasonably large enum variants are okay
 enum-variant-size-threshold = 1000
 xhu
+cgy
